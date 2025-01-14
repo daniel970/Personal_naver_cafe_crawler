@@ -1,0 +1,5 @@
+gradio
+selenium
+webdriver-manager
+beautifulsoup4
+apscheduler
